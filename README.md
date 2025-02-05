@@ -69,5 +69,5 @@ This will start the app at `http://localhost:5173/` (Vite default port).
 - Improve UI/UX with better styling  
 
 ### **Live Demo**  
-(If deployed, add your link here)  
+https://risingwebmantodolist.netlify.app/
 
