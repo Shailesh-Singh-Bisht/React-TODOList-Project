@@ -1,4 +1,4 @@
-# **React To-Do App ** 
+# **React To-Do App** 
 A simple and functional To-Do app built using **ReactJS** with **Vite** for faster development and better performance.  
 
 ## **Features**  
